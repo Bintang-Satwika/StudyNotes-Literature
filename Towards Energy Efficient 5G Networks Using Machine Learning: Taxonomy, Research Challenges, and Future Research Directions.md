@@ -35,6 +35,7 @@ The paper aims to provide a comprehensive survey on  addressing energy effciency
 | Mobile data volume| 1/100 Tb/s/Km^2 | 10 Tb/s/Km^2 |
 
 ![image](https://hackmd.io/_uploads/r1xlhFPha.png)
+
 **Figure 3. Total energy consumption of 2018 and 2025.**
 ![image](https://hackmd.io/_uploads/Bki5sFPh6.png)
 - **Millimeter waves** ranging from 30GHz to 300GHz $\rightarrow$ offer largerbandwidth for users $\rightarrow$ higher data transmission rates. However, at extremely high frequencies, attenuation increases $\rightarrow$ mmWaves cannot be used for long distance communication
