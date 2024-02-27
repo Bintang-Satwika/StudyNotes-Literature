@@ -60,11 +60,11 @@ The paper aims to provide a comprehensive survey on  addressing energy effciency
 **SOFTWARE DEFINED NETWORKING (SDN)**
 - The foundation of 5G infrastructure relies on Software Defined Networking (SDN), enabling centralized and intelligent network control through the utilization of software applications. the major advantages of SDN is intelligent networking, resource virtualization, and session management.
 - **Few issues in SDN** that needs to be investigated further:
-    **1.  an overhead increase because of excessive requests to the controller.** 
+    1.  **an overhead increase because of excessive requests to the controller.** 
     To address congestion, a low-cost load-balanced route management framework (L2RM) is proposed. $\rightarrow$ Adaptive route modification (ARM) triggered by load $\rightarrow$ enhances switch efficiency by updating dynamically and waking up only when necessary, saving cost and energy.
-    **2. Overbooking increases the risk of service level agreement (SLA) violations in cloud computing**
+    2. **Overbooking increases the risk of service level agreement (SLA) violations in cloud computing**
     To address this problem, Integrate machine learning with SDN for improved energy efficiency, emphasizing feature extraction to derive relevant data.
-    **3.  Switches, ports, and active links consume a lot of power in any SDN.**
+    3.  **Switches, ports, and active links consume a lot of power in any SDN.**
     A hybrid energy-efficient routing solution is proposed,employing a supervised and reinforcement learning framework named HyMER. The technique involves feature reduction using supervised learning in the first stage and dynamic routing through Q-learning in the second stage. However, the method relies on extensive training with historical data, potentially introducing bias if training data is insufficient.
     
 ### B. ACCESS NETWORK
