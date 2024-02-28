@@ -20,6 +20,5 @@ The development of 5G technology has led to an increase in mobile data traffic, 
 Over 60% of the energy consumption in 5G RAN is from main equipment, and the AAU (Active Antenna Unit) accounts for over 80%. Consequently, energy-saving technologies primarily target optimizing the energy efficiency of AAU.
 
  ### A. AAU Energy Consumption Analysis
- ![image](https://hackmd.io/_uploads/ByHcjnh3p.png)
- - 
+ <img width="302" alt="image" src="https://github.com/Bintang-Satwika/Paper_Literature/assets/87467666/565ff91d-d9f7-4e70-b100-83273c232c1c">
 
