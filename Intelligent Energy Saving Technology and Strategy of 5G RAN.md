@@ -21,6 +21,7 @@ Over 60% of the energy consumption in 5G RAN is from main equipment, and the AAU
 
  ### A. AAU Energy Consumption Analysis
  <img width="302" alt="image" src="https://github.com/Bintang-Satwika/Paper_Literature/assets/87467666/565ff91d-d9f7-4e70-b100-83273c232c1c">
+
 To reduce AAU energy consumption, improving the energy efficiency of the power amplifier module, digital baseband, and transceiver. This involves improving chip performance and integration, adopting advanced technologies like 7nm and 3nm, enhancing integration and processing capabilities, and reducing chip area and quantity.
 
 ### B. BBU (Baseband Unit) Energy Consumption Analysis
