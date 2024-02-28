@@ -34,3 +34,19 @@ To reduce AAU energy consumption, improving the energy efficiency of the power a
     1. enhance the processing of individual baseband boards by improving chip performance and integration. Utilize advanced technologies, such as 7nm and 3nm, to boost integration and processing, thereby reducing chip area and quantity to decrease energy consumption. 
     2. On existing BBU platforms, dynamically reduce the service processing capability of the baseband processing unit during idle conditions in alignment with user loads. This allows for a dynamic reduction in BBU power consumption.
 
+## III. ENERGY SAVING PRINCIPLE OF 5G RAN
+
+### A. Dynamic Scaling Principle
+- **Service-based resource scaling** : The system achieves real-time dynamic scaling by allocating resources in time, frequency, spatial, and power domains, guided by scenario-based network KPI (Key Performance Indicator) and QoS (Quality of Service) requirements.
+- **Power consumption scaling with resources** : Reducing resource consumption, such as bandwidth, channels, and transmit power, should lead to a proportional decrease in RAN power consumption.
+- 
+### B. Trade-off Principle
+- The energy-saving process often involves adjusting network resources, which directly influence network performance. Reducing resources enhances energy savings, but affects network performance.
+- In leisure scenarios, such as at night, a performance margin exists. Prerequisites involve analyzing the impact of energy-saving technologies through AI modeling. AI model ensures basic network coverage, and establishing a mapping relationship between energy-saving and experience KPIs to find the optimal balance.
+-  To reduce terminal power consumption, 5G RAN adapts public signaling interaction, often increasing 5G RAN computational cost. Strict IoT terminal requirements for low power consumption worsen this situation. While terminals can save energy by selectively listening to network messages, the network can't easily reduce the frequency of these messages.
+
+### C. Scenario based Demand Principle
+The diverse design constraints and user experiences in various scenarios pose unique challenges for energy-saving in 5G RAN. To address this, it is essential to establish scenario-specific energy-saving goals, analyze key technologies, and ensure performance guarantees. 
+
+## IV. ENERGY SAVING TECHNOLOGY FOR 5G RAN
+
