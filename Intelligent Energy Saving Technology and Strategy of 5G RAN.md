@@ -21,4 +21,15 @@ Over 60% of the energy consumption in 5G RAN is from main equipment, and the AAU
 
  ### A. AAU Energy Consumption Analysis
  <img width="302" alt="image" src="https://github.com/Bintang-Satwika/Paper_Literature/assets/87467666/565ff91d-d9f7-4e70-b100-83273c232c1c">
+To reduce AAU energy consumption, improving the energy efficiency of the power amplifier module, digital baseband, and transceiver. This involves improving chip performance and integration, adopting advanced technologies like 7nm and 3nm, enhancing integration and processing capabilities, and reducing chip area and quantity.
+
+### B. BBU (Baseband Unit) Energy Consumption Analysis
+
+- The BBU (Baseband Unit) comprises the physical layer, the second $\rightarrow$  MAC (Media Access Control), RLC (Radio Link Control), and PDCP (Packet Data Convergence Protocol), and third layer $\rightarrow$  RRC (Radio Resource Control).
+- In the uplink, the BBU receives air interface data from AAU, demodulates and decodes it, and subsequently sends the service and control data to the 5GC (5G Core Network) through the  Next Generation (NG) interface. 
+-  in the downlink, the BBU receives service and control data from 5GC through the NG interface, encodes and modulates baseband data, and then transmits antenna data to AAU using eCPRI (enhanced Common Public Radio Interface).
+- The 5G BBU includes a main control unit, baseband processing unit, and fan unit. The main power consumption in the BBU system comes from the baseband processing unit.
+- To achieve BBU energy efficiency:
+    1. enhance the processing of individual baseband boards by improving chip performance and integration. Utilize advanced technologies, such as 7nm and 3nm, to boost integration and processing, thereby reducing chip area and quantity to decrease energy consumption. 
+    2. On existing BBU platforms, dynamically reduce the service processing capability of the baseband processing unit during idle conditions in alignment with user loads. This allows for a dynamic reduction in BBU power consumption.
 
