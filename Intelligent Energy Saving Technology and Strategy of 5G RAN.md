@@ -30,6 +30,7 @@ To reduce AAU energy consumption, improving the energy efficiency of the power a
 -  in the downlink, the BBU receives service and control data from 5GC through the NG interface, encodes and modulates baseband data, and then transmits antenna data to AAU using eCPRI (enhanced Common Public Radio Interface).
 - The 5G BBU includes a main control unit, baseband processing unit, and fan unit. The main power consumption in the BBU system comes from the baseband processing unit.
 <img width="356" alt="image" src="https://github.com/Bintang-Satwika/Paper_Literature/assets/87467666/38078db8-cb9c-4a2d-81ce-73d83ab1c2bd">
+
 - To achieve BBU energy efficiency:
     1. enhance the processing of individual baseband boards by improving chip performance and integration. Utilize advanced technologies, such as 7nm and 3nm, to boost integration and processing, thereby reducing chip area and quantity to decrease energy consumption. 
     2. On existing BBU platforms, dynamically reduce the service processing capability of the baseband processing unit during idle conditions in alignment with user loads. This allows for a dynamic reduction in BBU power consumption.
