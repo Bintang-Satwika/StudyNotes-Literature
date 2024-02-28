@@ -42,7 +42,7 @@ To reduce AAU energy consumption, improving the energy efficiency of the power a
 ### B. Trade-off Principle
 - The energy-saving process often involves adjusting network resources, which directly influence network performance. Reducing resources enhances energy savings, but affects network performance.
 - In leisure scenarios, such as at night, a performance margin exists. Prerequisites involve analyzing the impact of energy-saving technologies through AI modeling. AI model ensures basic network coverage, and establishing a mapping relationship between energy-saving and experience KPIs to find the optimal balance.
--  To reduce terminal power consumption, 5G RAN adapts public signaling interaction, often increasing 5G RAN computational cost. Strict IoT terminal requirements for low power consumption worsen this situation. While terminals can save energy by selectively listening to network messages, the network can't easily reduce the frequency of these messages.
+- To reduce terminal power consumption, 5G RAN adapts public signaling interaction, often increasing 5G RAN computational cost. Strict IoT terminal requirements for low power consumption worsen this situation. While terminals can save energy by selectively listening to network messages, the network can't easily reduce the frequency of these messages.
 ### C. Scenario based Demand Principle
 The diverse design constraints and user experiences in various scenarios pose unique challenges for energy-saving in 5G RAN. To address this, it is essential to establish scenario-specific energy-saving goals, analyze key technologies, and ensure performance guarantees. 
 
