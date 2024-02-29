@@ -59,13 +59,13 @@ Hardware energy saving in 5G RAN targets reducing base power consumption and enh
 2. **Software energy-saving technology of 5G RAN**
 Software energy-saving in 5G RAN optimally allocates system resources through software configuration adjustments, aiming to achieve energy-saving and consumption reduction.
 The main software energy saving technology of 5G RAN:
-    1. **Symbol shutdown**
+    1. **Symbol shutdown**:
     real-time deactivation of power-consuming components like PA and RF modules when there is no data on downlink symbols, so minimize the power consumption.
-    2. **Channel shutdown**
+    2. **Channel shutdown**:
     5G RAN automatically shuts down transmit channels when cell load is below a threshold, adjusting common channel power to minimize impact on coverage and service.
-    3. **Carrier shutdown**
+    3. **Carrier shutdown**:
     During low-demand periods like at night, some carriers can be shut down to reduce energy consumption. When the service load is low, users shift from capacity to basic cells, enabling capacity cells to be shut down. If the service load increases, capacity cells can be restarted to restore the network's capacity.
-    4. **Deep Sleep**
+    4. **Deep Sleep**:
     When the AAU is in deep sleep state, only the eCPRI(enhanced Common Public Radio Interface) which communicates with BBU is kept-alive, and other hardware modulesare shut down.
 
 ### B. AI-Based energy-saving technology of 5G RAN
