@@ -70,11 +70,11 @@ The main software energy saving technology of 5G RAN:
 
 ### B. AI-Based energy-saving technology of 5G RAN
 1. **Energy Saving Scenario Identification**
-    The model employs AI's correlation and clustering model, utilizing historical data like wireless resource usage, weather conditions, traffic users, and service loads to establish energy-saving scenarios. 
-2. **Energy Saving Scenario Identification**
-    The service traffic model utilizes neural networks to establish mapping relationships between historical KPIs, related cell information, and environmental factors, providing insights into the characteristics of the service model.
-3.  **Test data of AI-Based energy-saving technology of 5G RAN**
-    In August 2021, China Telecom conducted a test on AI-based energy-saving technology for 5G RAN in Chengdu. The results revealed a 31.08% energy-saving benefit when employing AI energy-saving based on load forecasting.
-4. **AI-Based cooperative energy-saving technology of RANs**
-    RAN's energy-saving method involves using historical data from nearby base stations in an AI model for joint prediction, improving traffic accuracy. However, the AI energy-saving model is experimental, and collaborative RAN energy-saving requires development after the basic model matures. If cooperative RANs are from different manufacturers, the AI model needs extensive learning.
+     The model employs AI's correlation and clustering model, utilizing historical data like wireless resource usage, weather conditions, traffic users, and service loads to establish energy-saving scenarios. 
+3. **Energy Saving Scenario Identification**
+     The service traffic model utilizes neural networks to establish mapping relationships between historical KPIs, related cell information, and environmental factors, providing insights into the characteristics of the service model.
+5.  **Test data of AI-Based energy-saving technology of 5G RAN**
+      In August 2021, China Telecom conducted a test on AI-based energy-saving technology for 5G RAN in Chengdu. The results revealed a 31.08% energy-saving benefit when employing AI energy-saving based on load forecasting.
+6. **AI-Based cooperative energy-saving technology of RANs**
+     RAN's energy-saving method involves using historical data from nearby base stations in an AI model for joint prediction, improving traffic accuracy. However, the AI energy-saving model is experimental, and collaborative RAN energy-saving requires development after the basic model matures. If cooperative RANs are from different manufacturers, the AI model needs extensive learning.
 
