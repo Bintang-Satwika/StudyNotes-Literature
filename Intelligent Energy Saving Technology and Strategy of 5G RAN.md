@@ -75,7 +75,7 @@ The main software energy saving technology of 5G RAN:
      The service traffic model utilizes neural networks to establish mapping relationships between historical KPIs, related cell information, and environmental factors, providing insights into the characteristics of the service model.
 5.  **Test data of AI-Based energy-saving technology of 5G RAN**: 
      In August 2021, China Telecom conducted a test on AI-based energy-saving technology for 5G RAN in Chengdu. The results revealed a 31.08% energy-saving benefit when employing AI energy-saving based on load forecasting.
-      <img width="428" alt="image" src="https://github.com/Bintang-Satwika/Paper_Literature/assets/87467666/58d8aa2b-c6c3-4846-aa25-30764d497397">
+     - <img width="428" alt="image" src="https://github.com/Bintang-Satwika/Paper_Literature/assets/87467666/58d8aa2b-c6c3-4846-aa25-30764d497397">
 7. **AI-Based cooperative energy-saving technology of RANs**:
      RAN's energy-saving method involves using historical data from nearby base stations in an AI model for joint prediction, improving traffic accuracy. However, the AI energy-saving model is experimental, and collaborative RAN energy-saving requires development after the basic model matures. If cooperative RANs are from different manufacturers, the AI model needs extensive learning.
 
