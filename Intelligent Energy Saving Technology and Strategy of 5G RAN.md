@@ -78,3 +78,10 @@ The main software energy saving technology of 5G RAN:
 6. **AI-Based cooperative energy-saving technology of RANs**:
      RAN's energy-saving method involves using historical data from nearby base stations in an AI model for joint prediction, improving traffic accuracy. However, the AI energy-saving model is experimental, and collaborative RAN energy-saving requires development after the basic model matures. If cooperative RANs are from different manufacturers, the AI model needs extensive learning.
 
+## V. ENERGY EFFICIENCY EVALUATION SYSTEM FOR 5G RAN
+- The power consumption evaluation module calculates power usage using existing network counters. It is based on power consumption and traffic models, collecting KPI and average PRB usage data through OMC measurement tasks for actual 5G RAN traffic and power consumption.
+- The energy efficiency evaluation system aims to assess the effectiveness of energy-saving technologies and strategies in 5G RAN without affecting network performance.
+
+### Conclusion
+- The paper discusses about 5G RAN energy saving, analyzing key factors, principles, and core technologies.
+- AI technology offers the potential to optimize resource scheduling, enhance user experience, reduce operational costs, and boost market competitiveness.
