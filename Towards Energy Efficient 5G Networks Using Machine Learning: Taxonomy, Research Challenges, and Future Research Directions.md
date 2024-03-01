@@ -1,5 +1,4 @@
 # Towards Energy Efficient 5G Networks Using Machine Learning: Taxonomy, Research Challenges, and Future Research Directions 
-
 ## ABOUT
 
 | item | information |
